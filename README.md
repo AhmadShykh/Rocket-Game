@@ -1,5 +1,5 @@
 # Rocket-Game
-Created this game using unity 3D. The game uses simple control machanics built in Unity. The game only contains two levels and loop back once you finish the last level.
+Created this game using unity 3D. The game uses simple control machanics built in Unity. Run the section 2 application to play the game. The game only contains two levels and loop back once you finish the last level.
 Use w a s d to control the ship and the level even contains little hurdles in the way. The last level is difficult but you can do it I believe.
 Some of the game screen shots are given below.
 ![WhatsApp Image 2023-06-20 at 18 20 56](https://github.com/AhmadShykh/Rocket-Game/assets/52326090/372d80e6-d9ca-40a0-97f4-9cfd561fb452)
